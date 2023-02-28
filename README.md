@@ -22,3 +22,7 @@ Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi 
 **
 ## **Licence**
 [MIT](https://choosealicense.com/licenses/mit/)
+
+
+## ***Picture of Patika.Dev***
+![Patikda Dev proje örneği](https://raw.githubusercontent.com/Kodluyoruz/taskforce/main/git/odev1/figures/markdown.png)
